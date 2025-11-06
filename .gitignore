@@ -1,0 +1,4 @@
+mnt/scripts/*
+!mnt/scripts/.gitkeep
+mnt/sessions/*
+!mnt/sessions/.gitkeep
